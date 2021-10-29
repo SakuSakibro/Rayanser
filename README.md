@@ -7,11 +7,11 @@
 <img src=https://i.imgur.com/w89FHm7.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/miracleramfan/rayanser"><img title="Author" src="https://img.shields.io/badge/Author-https://github.com/miracleramfan/rayanser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/miracleramfan/rayanser">Amalser_v2</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 <div align="center"> 
 
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
+## click 🥳this
 
  [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/fd0KPblop-k)
 
