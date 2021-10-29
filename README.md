@@ -75,7 +75,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lw3fagpYYZdBYbs7TssQPV)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?]https://github.com/miracleramfan/rayanser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/username=rayanssr]https://github.com/miracleramfan/rayanser?]https://github.com/miracleramfan/rayanser)
   </div>
     
 ### ⚠ Warning ⚠
