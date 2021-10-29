@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/miracleramfan/rayanser">RAYANSER<
 
 ## click 🥳this
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/fd0KPblop-k)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UCUeuLLirgvSEgEkirCwFyyQ)
 
 
   ### Simple Method
