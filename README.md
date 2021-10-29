@@ -7,7 +7,7 @@
 <img src=20211028_211021.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/miracleramfan/rayanser"><img title="[Author=SANJU]" src="https://img.shields.io/badge/Author-SANJU?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/miracleramfan/rayanser"><img title="Author=SANJU]" src="https://img.shields.io/badge/Author-SANJU" color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
