@@ -39,7 +39,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone 
-$ cd Amalser_v2
+$ cd rayanser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
