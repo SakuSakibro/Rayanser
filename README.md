@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=20211028_211021.jpg>
+<img src=descargar.php>
 </p>
   <p align="center">
 <a href="https://github.com/miracleramfan/rayanser"><img title="Author=SANJU]" src="https://img.shields.io/badge/Author-SANJU" color=blue&style=for-the-badge&logo=whatsapp"></a>
